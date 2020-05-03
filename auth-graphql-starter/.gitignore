@@ -2,5 +2,6 @@ node_modules
 .DS_STORE
 package-lock.json
 credentials.js
+yarn.lock
 .vscode
 .vs
