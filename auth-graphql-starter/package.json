@@ -33,7 +33,7 @@
     "nodemon": "*",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "qs": "^6.9.3",
+    "qs": "^6.2.3",
     "react": "^15.4.2",
     "react-apollo": "^0.10.0",
     "react-dom": "^15.4.2",
